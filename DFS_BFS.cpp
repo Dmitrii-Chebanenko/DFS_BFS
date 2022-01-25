@@ -202,6 +202,5 @@ int main()
 	//201-205 очищение динамической памяти от векторов
 	cc.clear();			
 	v.clear();
-	vvod.clear();
 	visited.clear();
 }
